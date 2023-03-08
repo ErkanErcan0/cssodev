@@ -1,0 +1,19 @@
+h1{
+    color: #0A2647;
+    font-size: 40px;
+}
+h2 {
+    color: #144272;
+    font-size: 30px;
+}
+h3{
+    color: #EA4C4C;
+}
+p{
+    font-size: 20px;
+}
+body {
+    text-align:center;
+    list-style-position: inside;
+    background-color: #F6E1C3;
+}
